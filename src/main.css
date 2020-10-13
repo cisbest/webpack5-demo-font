@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "书体坊禚效锋行草体";
+    src: url("./assets/书体坊禚效锋行草体.ttf") format("truetype");
+}
+html,body{
+    font-size: 50px;
+    font-weight: bold;
+    color: #f60;
+    font-family: "书体坊禚效锋行草体";
+}
